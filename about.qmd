@@ -2,8 +2,14 @@
 title: "About"
 ---
 
-About this site
+Courses Taking this term
 
-```{r}
-1 + 1
-```
+CSC401
+
+CSC343
+
+CSC384
+
+STA304
+
+LIN204
